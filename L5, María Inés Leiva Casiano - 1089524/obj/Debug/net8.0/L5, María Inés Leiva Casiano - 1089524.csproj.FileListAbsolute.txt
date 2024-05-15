@@ -1,0 +1,14 @@
+C:\Users\manes\OneDrive\Documentos\L5, María Inés Leiva Casiano - 1089524\obj\Debug\net8.0\L5, María Inés Leiva Casiano - 1089524.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manes\OneDrive\Documentos\L5, María Inés Leiva Casiano - 1089524\obj\Debug\net8.0\L5, María Inés Leiva Casiano - 1089524.AssemblyInfoInputs.cache
+C:\Users\manes\OneDrive\Documentos\L5, María Inés Leiva Casiano - 1089524\obj\Debug\net8.0\L5, María Inés Leiva Casiano - 1089524.AssemblyInfo.cs
+C:\Users\manes\OneDrive\Documentos\L5, María Inés Leiva Casiano - 1089524\obj\Debug\net8.0\L5, María Inés Leiva Casiano - 1089524.csproj.CoreCompileInputs.cache
+C:\Users\manes\OneDrive\Documentos\L5, María Inés Leiva Casiano - 1089524\bin\Debug\net8.0\L5, María Inés Leiva Casiano - 1089524.exe
+C:\Users\manes\OneDrive\Documentos\L5, María Inés Leiva Casiano - 1089524\bin\Debug\net8.0\L5, María Inés Leiva Casiano - 1089524.deps.json
+C:\Users\manes\OneDrive\Documentos\L5, María Inés Leiva Casiano - 1089524\bin\Debug\net8.0\L5, María Inés Leiva Casiano - 1089524.runtimeconfig.json
+C:\Users\manes\OneDrive\Documentos\L5, María Inés Leiva Casiano - 1089524\bin\Debug\net8.0\L5, María Inés Leiva Casiano - 1089524.dll
+C:\Users\manes\OneDrive\Documentos\L5, María Inés Leiva Casiano - 1089524\bin\Debug\net8.0\L5, María Inés Leiva Casiano - 1089524.pdb
+C:\Users\manes\OneDrive\Documentos\L5, María Inés Leiva Casiano - 1089524\obj\Debug\net8.0\L5, María Inés Leiva Casiano - 1089524.dll
+C:\Users\manes\OneDrive\Documentos\L5, María Inés Leiva Casiano - 1089524\obj\Debug\net8.0\refint\L5, María Inés Leiva Casiano - 1089524.dll
+C:\Users\manes\OneDrive\Documentos\L5, María Inés Leiva Casiano - 1089524\obj\Debug\net8.0\L5, María Inés Leiva Casiano - 1089524.pdb
+C:\Users\manes\OneDrive\Documentos\L5, María Inés Leiva Casiano - 1089524\obj\Debug\net8.0\L5, María Inés Leiva Casiano - 1089524.genruntimeconfig.cache
+C:\Users\manes\OneDrive\Documentos\L5, María Inés Leiva Casiano - 1089524\obj\Debug\net8.0\ref\L5, María Inés Leiva Casiano - 1089524.dll
